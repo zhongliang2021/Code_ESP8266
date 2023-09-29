@@ -1,12 +1,12 @@
 /*
  * 支持天猫、小爱、小度、google Assistent同时控制
- * 2023-06-29
+ * 
  */
 #include <ESP8266WiFi.h>
 
 
 #define server_ip "bemfa.com" //巴法云服务器地址默认即可
-#define server_port "8344" //服务器端口，tcp创客云端口8344
+#define server_port "1233" //服务器端口，tcp创客云端口1233
 
 //********************需要修改的部分*******************//
 
